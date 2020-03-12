@@ -16,7 +16,7 @@ export class SuperheroDataService {
           details: "A hero in Dholakpur village",
           country: "India",
           cardImage: "/assets/chhottabheem.png",
-          specialPowers: ["a very strong boy!"],
+          specialPowers: ["a very strong boy!"], 
           favFood: ["Laddu"]
         },
         {
